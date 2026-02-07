@@ -1,16 +1,18 @@
-## Hi there 👋
+# hi!
 
-<!--
-**tayenx3/tayenx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/language-Rust-orange.svg" alt="Language: Rust">
+  <img src="https://img.shields.io/badge/idiot-idiot?label=professional&color=red" alt="Professional Idiot">
+</div>
 
-Here are some ideas to get you started:
+i'm a young rustacean trying to explore compilers and language design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i'm up to
+- building my **[Pau language/compiler](https://github.com/tayenx3/pau)**
+- learning about compiler backends
+- looking to contribute to open-source compilers
+
+## reach me
+- here's my discord: `@tayenx3_94353`
+- github: [@tayenx3](https://github.com/tayenx3) (ofc)
+- questions and requests are welcome!

@@ -25,7 +25,7 @@ where
 }
 
 fn hi() {
-  let me: Know<If> = You { need: Something };
+    let me: Know<If> = You { need: Something };
 }
 ```
 
@@ -35,6 +35,7 @@ i'm a young rustacean trying to explore compilers and language design
 - building my **[Pau language/compiler](https://github.com/tayenx3/pau)**
 - learning about compiler backends
 - looking to contribute to open-source compilers
+- learning about CPU architecture
 
 ## reach me
 - here's my discord: `@tayenx3_94353`

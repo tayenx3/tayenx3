@@ -1,7 +1,7 @@
 # hi!
 
 <div align="center">
-  <img src="https://img.shields.io/badge/language-Rust-orange.svg" alt="Language: Rust">
+  <img src="https://img.shields.io/badge/main%20language-Rust-orange.svg" alt="Language: Rust">
   <img src="https://img.shields.io/badge/idiot-idiot?label=professional&color=red" alt="Professional Idiot">
 </div>
 

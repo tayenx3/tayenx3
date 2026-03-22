@@ -7,23 +7,6 @@
 
 
 ```rust
-trait Helpful {
-    fn can_help_with(&self) -> Vec<&' static str>;
-}
-
-impl<T> Helpful for T
-where
-  T: CompilerNerd
-{
-    fn can_help_with(&self) -> Vec<&'static str> {
-        vec![
-            "dumb questions about parsing",
-            "borrow checker confusion",
-            "wanting to contribute but not knowing where to start",
-        ]
-    }
-}
-
 fn hi() {
     let me: Know<If> = You { need: Something };
 }
@@ -32,10 +15,11 @@ fn hi() {
 i'm a young rustacean trying to explore compilers and language design
 
 ## what i'm up to
-- building my **[Pau language/compiler](https://github.com/tayenx3/pau)**
-- learning about compiler backends
-- looking to contribute to open-source compilers
+- building my **[Pau language/compiler](https://github.com/tayenx3/pau)** (on hiatus)
+- a private virtual CPU for "creative computation"
+- a "serious", FP-oriented systems language (that hasn't started real development yet) called Tiel
 - learning about CPU architecture
+- learning linear algebra and 3D graphics
 
 ## reach me
 - here's my discord: `@tayenx3_94353`

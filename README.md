@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/main%20language-Rust-orange.svg" alt="Language: Rust">
-  <img src="https://img.shields.io/badge/idiot-idiot?label=professional&color=red" alt="Professional Idiot">
+  <img src="https://img.shields.io/badge/professional-idiot-red" alt="Professional Idiot">
 </div>
 
 

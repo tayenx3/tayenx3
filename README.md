@@ -18,6 +18,8 @@ i'm a young rustacean trying to explore compilers and language design
 - building my **[Pau language/compiler](https://github.com/tayenx3/pau)** (on hiatus)
 - building my **[Lace language](https://github.com/lacelanguage/lace)**
 - learning about CPU architecture
+- learning x64 Windows ABI
+- trying to master C
 
 ## reach me
 - here's my discord: `@tayenx3_94353`

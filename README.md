@@ -24,10 +24,10 @@ with love from 🇻🇳 💕
 
 ## what i'm most proud of
 - my [Pau language/compiler](https://github.com/tayenx3/pau)
-- my [Aliz Virtual Machine](https://github.com/tayenx3/aliz-vm)
+- my [Aliz ISA Specification and Virtual Machine](https://github.com/tayenx3/aliz)
 - contributing to [the VSCode extension for the Ante programming language](https://github.com/jfecher/vscode-ante)
 
 ## reach me
 - here's my discord: `@tayenx3_94353`
 - github: [@tayenx3](https://github.com/tayenx3)
-- questions and requests are welcome
+- questions and requests are welcome (i'd love to be in the team of a CS project)

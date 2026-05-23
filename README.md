@@ -8,7 +8,7 @@
 
 ```rust
 fn hi() {
-    let me: Know<If> = You { need: Something };
+    let me: Know<If> = You::need("something");
 }
 ```
 
@@ -21,6 +21,7 @@ with love from 🇻🇳 💕
 - building my **[Krai language](https://github.com/tayenx3/krai)**
 - learning about compiler enginnering in general
 - exploring stuff outside of computer science (philosophy, music, etc.)
+- playing/creating levels in Geometry Dash
 
 ## what i'm most proud of
 - my [Pau language/compiler](https://github.com/tayenx3/pau)
@@ -30,4 +31,5 @@ with love from 🇻🇳 💕
 ## reach me
 - here's my discord: `@tayenx3_94353`
 - github: [@tayenx3](https://github.com/tayenx3)
+- gd: @tireded
 - questions and requests are welcome (i'd love to be in the team of a CS project)

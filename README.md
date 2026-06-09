@@ -17,11 +17,9 @@ i'm a young rustacean trying to explore compilers and language design
 with love from 🇻🇳 💕
 
 ## what i'm up to
-- building my **[Pau language/compiler](https://github.com/tayenx3/pau)** (on hiatus and it probably won't get any new progress any time soon)
-- building my **[Krai language](https://github.com/tayenx3/krai)**
+- building my [Ivo programming language and compiler](https://github/tayenx3/ivo)
 - learning about compiler enginnering in general
 - exploring stuff outside of computer science (philosophy, music, etc.)
-- playing/creating levels in Geometry Dash
 
 ## what i'm most proud of
 - my [Pau language/compiler](https://github.com/tayenx3/pau)

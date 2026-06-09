@@ -17,7 +17,7 @@ i'm a young rustacean trying to explore compilers and language design
 with love from 🇻🇳 💕
 
 ## what i'm up to
-- building my [Ivo programming language and compiler](https://github/tayenx3/ivo)
+- building my [Ivo programming language and compiler](https://github.com/tayenx3/ivo)
 - learning about compiler enginnering in general
 - exploring stuff outside of computer science (philosophy, music, etc.)
 

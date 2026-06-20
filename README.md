@@ -23,7 +23,7 @@ with love from 🇻🇳 💕
 
 ## what i'm most proud of
 - my [Pau language/compiler](https://github.com/tayenx3/pau)
-- my [Aliz ISA Specification and Virtual Machine](https://github.com/tayenx3/aliz)
+- my [TinyE code editor](https://github.com/tayenx3/tinye)
 - contributing to [the VSCode extension for the Ante programming language](https://github.com/jfecher/vscode-ante)
 
 ## reach me

@@ -14,8 +14,6 @@ fn hi() {
 
 i'm a young rustacean trying to explore compilers and language design
 
-with love from 🇻🇳 💕
-
 ## what i'm up to
 - building my [Miel programming language and compiler](https://github.com/tayenx3/miel)
 - learning about compiler enginnering in general
@@ -27,7 +25,6 @@ with love from 🇻🇳 💕
 - contributing to [the VSCode extension for the Ante programming language](https://github.com/jfecher/vscode-ante)
 
 ## reach me
-- here's my discord: `@tayenx3_94353`
+- here's my discord: `@_zvivii`
 - github: [@tayenx3](https://github.com/tayenx3)
-- gd: @tireded
 - questions and requests are welcome (i'd love to be in the team of a CS project)

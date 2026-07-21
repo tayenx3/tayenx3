@@ -15,9 +15,9 @@ fn hi() {
 i'm a young rustacean trying to explore compilers, language design and also game design
 
 ## what i'm up to
-- building my [Miel programming language and compiler](https://github.com/tayenx3/miel)
 - learning about compiler enginnering in general
 - exploring stuff outside of programming (crocheting, music, etc.)
+- setting up for minecraft/devlog videos on youtube but my laptop is a little shitty for my OBS \:P
 - pondering on switching to Odin once v1.0.. i mean... Odin 2027 drops
 
 ## what i'm most proud of
@@ -28,4 +28,4 @@ i'm a young rustacean trying to explore compilers, language design and also game
 ## reach me
 - discord: `@_zvivii`
 - github: [@tayenx3](https://github.com/tayenx3)
-- questions and requests are welcome (i'd love to be in the team of a CS project)
+- questions and requests are welcome

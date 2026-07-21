@@ -12,12 +12,13 @@ fn hi() {
 }
 ```
 
-i'm a young rustacean trying to explore compilers and language design
+i'm a young rustacean trying to explore compilers, language design and also game design
 
 ## what i'm up to
 - building my [Miel programming language and compiler](https://github.com/tayenx3/miel)
 - learning about compiler enginnering in general
-- exploring stuff outside of computer science (philosophy, music, etc.)
+- exploring stuff outside of programming (crocheting, music, etc.)
+- pondering on switching to Odin once v1.0.. i mean... Odin 2027 drops
 
 ## what i'm most proud of
 - my [Pau language/compiler](https://github.com/tayenx3/pau)
@@ -25,6 +26,6 @@ i'm a young rustacean trying to explore compilers and language design
 - contributing to [the VSCode extension for the Ante programming language](https://github.com/jfecher/vscode-ante)
 
 ## reach me
-- here's my discord: `@_zvivii`
+- discord: `@_zvivii`
 - github: [@tayenx3](https://github.com/tayenx3)
 - questions and requests are welcome (i'd love to be in the team of a CS project)

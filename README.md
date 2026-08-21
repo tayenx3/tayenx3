@@ -18,7 +18,7 @@ i'm a young rustacean trying to explore compilers, language design and also game
 - learning about compiler enginnering in general
 - exploring stuff outside of programming (crocheting, music, etc.)
 - setting up for minecraft/devlog videos on youtube but my laptop is a little shitty for my OBS \:P
-- pondering on switching to Odin once v1.0.. i mean... Odin 2027 drops
+- pondering on switching to Odin once Odin 2027 drops
 
 ## what i'm most proud of
 - my [Pau language/compiler](https://github.com/tayenx3/pau)

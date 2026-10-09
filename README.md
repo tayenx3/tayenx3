@@ -1,5 +1,7 @@
 # hi!
 
+> **NOTE:** im going to be more active on [codeberg](https://codeberg.org/viviz)
+
 <div align="center">
   <img src="https://img.shields.io/badge/main%20language-Rust-orange.svg" alt="main language: Rust">
   <img src="https://img.shields.io/badge/professional-idiot-red" alt="professional idiot">
